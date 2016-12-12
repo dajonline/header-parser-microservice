@@ -1,0 +1,24 @@
+{
+  "name": "header-parser-service",
+  "version": "1.0.0",
+  "description": "FCC challenge",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.2.6",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dajonline/header-parser-microservice.git"
+  },
+  "author": "Daniel Jacobson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dajonline/header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/dajonline/header-parser-microservice#readme"
+}
